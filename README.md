@@ -1,2 +1,1 @@
-Project-and-Activity-Logs
-=========================
+Total Hours Spent on Project: 25
